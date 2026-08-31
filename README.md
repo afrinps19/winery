@@ -1,4 +1,4 @@
-# Wine Quality Prediction (Binary Classification)
+# Winery - Wine Quality Prediction (Binary Classification)
 
 A machine learning project that predicts whether a wine is "good" quality
 (score ≥ 7) or not, using its chemical properties. Built and extended from
